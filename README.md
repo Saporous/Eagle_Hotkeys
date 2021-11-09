@@ -1,2 +1,4 @@
-# Eagle_Hotkeys
+# Eagle Hotkeys
 Hotkeys for Autodesk EAGLE using AutoHotKey
+
+Eagle by default has no hotkeys defined and allows users to set their own. Other users have shared ULPs (User Language Programs) that assign tools to hotkeys. However, all hotkeys assigned this way need to use a modifier such as Control or Alt because the Eagle command line takes priority focus on text inputs while in the editor. This project aims to reduce the amount of keystrokes needed to select tools while also taking advantage of the command line by utilizing the program AutoHotkey. AutoHotkey inputs full commands into the command line after monitoring assigned hotkeys.
